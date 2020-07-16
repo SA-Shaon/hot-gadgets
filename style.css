@@ -1,6 +1,27 @@
+.carousel-area{
+    height: 500px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    background-color: #ff9936;
+    background-size: 100%,;
+    border-radius: 100% ;
+}
 .buy-now-button{
     color: white;
     background-color: black;
     padding: 10px 20px;
     border-radius: 10px;
+}
+.see-all{
+    color:#ffa330;
+    margin-top: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-deck{
+    text-align: center;
 }
