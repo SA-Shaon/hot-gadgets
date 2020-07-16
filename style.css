@@ -1,3 +1,7 @@
+.container{
+    margin-bottom: 100px;
+    
+}
 .carousel-area{
     height: 500px;
 }
@@ -24,4 +28,10 @@
 }
 .card-deck{
     text-align: center;
+}
+.card{
+    box-shadow:10px 20px 30px gray;
+    border-radius:15px;
+    border-color: none;
+   
 }
